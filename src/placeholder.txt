@@ -1,1 +1,3 @@
-to make sure the src folder appears
+openai==0.27.8
+python-dotenv==1.0.0
+langchain==0.0.242
